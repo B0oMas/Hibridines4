@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960759551920",
+    "project_id": "shopadministration-5fc2a",
+    "storage_bucket": "shopadministration-5fc2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960759551920:android:eda4b791c5cb3d4b596875",
+        "android_client_info": {
+          "package_name": "com.hibridine_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960759551920-nfp4ol1cnp2dcg355lpbsaoi8k9vh9f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ewdPeejJkNvMbM8e15BO27qRn7Uris8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960759551920-nfp4ol1cnp2dcg355lpbsaoi8k9vh9f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
